@@ -2,7 +2,7 @@
 
 ## Overview
 
-Create a website using HTML, CSS, and JavaScript to showcase your skills, interests, and projects. Utilize any preferred framework, library, or tool for design and functionality. Additionally, implement a JavaScript script in the head tag to retrieve visitor information (country, device type, and region) and send it as a JSON object to the specified API endpoint.
+Create a website using HTML, CSS, and JavaScript to showcase your skills, interests, and projects. Utilize any preferred framework, library, or tool for design and functionality. Additionally, implement a JavaScript script in the head tag to retrieve visitor information (country, device type, and browser) and send it as a JSON object to the specified API endpoint.
 
 ## Requirements
 
