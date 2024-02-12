@@ -9,7 +9,7 @@ Create a website using HTML, CSS, and JavaScript to showcase your skills, intere
 - Develop a visually appealing website.
 - Include sections for skills, interests, and projects.
 - Implement a JavaScript script to retrieve visitor information.
-- Send the gathered information as a JSON object to the API endpoint: [https://tikka-lite.onrender.com](https://tikka-lite.onrender.com).
+- Send the gathered information as a JSON object to the API endpoint: [https://tikka-lite.onrender.com/assessment](https://tikka-lite.onrender.com/assessment).
 - Handle API response and errors appropriately.
 
 ## Submission
